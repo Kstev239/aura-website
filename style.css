@@ -277,6 +277,10 @@ a {
   margin-top: 0;
 }
 
+.notice p:last-child {
+  margin-bottom: 0;
+}
+
 .contact {
   margin: 12px 0;
   font-style: normal;

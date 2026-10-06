@@ -5,6 +5,8 @@ The website of the Aura app, served by GitHub Pages at https://aura-sport.de.
 Plain HTML and CSS, no build step. German pages at the root, English pages under `/en/`.
 
 - `index.html`, `en/index.html`: the landing pages, edited here.
+- `konto-loeschen/`, `en/delete-account/`: how to delete the account, edited here. Google Play asks
+  for this URL in the Data safety form.
 - `datenschutz/`, `nutzungsbedingungen/`, `impressum/` and `en/privacy/`, `en/terms/`, `en/imprint/`:
   **generated** from the legal texts of the app, don't edit them here. After changing the texts in the
   app repo, run there (with this repo next to it):
