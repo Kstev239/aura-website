@@ -134,15 +134,20 @@ a {
   font-size: 18px;
 }
 
-.badge {
+.store-badge {
   display: inline-block;
   margin-top: 28px;
-  padding: 10px 20px;
-  border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent);
-  font-size: 15px;
-  font-weight: 600;
+}
+
+.store-badge img {
+  display: block;
+  width: 150px;
+  height: auto;
+}
+
+.hero .store-note {
+  margin-top: 12px;
+  font-size: 14px;
 }
 
 .features {
