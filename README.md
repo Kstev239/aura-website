@@ -1,6 +1,6 @@
 # aura-website
 
-The website of the Aura app, served by GitHub Pages at https://atleo.de.
+The website of the Atleo app, served by GitHub Pages at https://atleo.de.
 
 Plain HTML and CSS, no build step. German pages at the root, English pages under `/en/`.
 
